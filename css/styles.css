@@ -23,14 +23,16 @@
 .sobre_mi{
     background-color: #6665E6;
     font-family: "Averta";
-    border: 2px solid #29296b;
-    border-bottom: none;
 }
 
-.sobre_mi_info{
+.sobre_mi_info_foto{
     background-color: #8F69F0;
     font-family: "RadioGrotesk";
     font-size: 120%;
-    border: 2px solid #29296b;
 }
 
+.sobre_mi_info_descripcion{
+    background-color: #8F69F0;
+    font-family: "RadioGrotesk";
+    font-size: 120%;
+}
