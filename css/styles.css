@@ -1,31 +1,36 @@
 @font-face {
     font-family: "Blogger_Sans_Bold";
-    src: url("fonts/blogger-sans/Blogger_Sans-Bold.otf");
+    src: url("../fonts/blogger-sans/Blogger_Sans-Bold.otf");
 }
 
 @font-face {
     font-family: "RadioGrotesk";
-    src: url("fonts/Radio_Grotesk_Font_Family_(Fontmirror)/Radio Grotesk Regular 400.otf");
+    src: url("../fonts/Radio_Grotesk_Font_Family_(Fontmirror)/Radio Grotesk Regular 400.otf");
 }
 
 @font-face {
     font-family: "Averta";
-    src: url("fonts/averta/AvertaDemoPECuttedDemo-Regular.otf");
+    src: url("../fonts/averta/AvertaDemoPE-ExtraBold.otf");
 }
 
 .elementos_header {
     background-color: #6BB251;
     border: 2px solid #40A819;
-    font-family: "RadioGrotesk";
+    font-family: "Blogger_Sans_Bold";
+    padding-top: 10px;
 }
 
 .sobre_mi{
-    background-color: #45FF00;
-    font-family: "RadioGrotesk";
+    background-color: #6665E6;
+    font-family: "Averta";
+    border: 2px solid #29296b;
+    border-bottom: none;
 }
 
 .sobre_mi_info{
-    background-color: #B2009E;
-    font-family: "Averta";
+    background-color: #8F69F0;
+    font-family: "RadioGrotesk";
+    font-size: 120%;
+    border: 2px solid #29296b;
 }
 
